@@ -1,3 +1,3 @@
-# Taipei Medical University Remote Sensing Data Center
-Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities. Scientists, researchers, and developers use Earth Engine to detect changes, map trends, and quantify differences on the Earth's surface. Earth Engine is now available for commercial use, and remains free for academic and research use.
+# Taipei Medical University Remote Sensing Data Center (TMU-RSDC)
+TMU-RSDC provides python scripts to generate multiple environemtnal parameters dervied from different satellite remote sensing images on Goolge Earth Engine. At curent stage, land surface temperature, NDVI, and NDWI can be derived from MODIS, Landsat, or Sentinel-2. Precipitation is from Climate Hazards Group InfraRed Precipitation with Station (CHIRPS). Global land cover/use at 2020 is acquired from WorldCover project. More detail information can be found on the GEE Data Catalog. https://developers.google.com/earth-engine/datasets/
 
